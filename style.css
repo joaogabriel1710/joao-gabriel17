@@ -1,5 +1,6 @@
 :root{
-    --cor-de-fundo: #878787;
+    --cor-de-fundo: hsl(0, 0%, 53%);
+--texto
 }
 body{
    background-color: var(--cor-de-fundo);
