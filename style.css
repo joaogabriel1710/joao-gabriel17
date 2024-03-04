@@ -1,8 +1,9 @@
 :root{
     --cor-de-fundo: hsl(0, 0%, 53%);
---texto
+--texto:#000000;
 }
 body{
    background-color: var(--cor-de-fundo);
+   color:#000000
  width: 10%;
 }
