@@ -4,6 +4,13 @@
 }
 body{
    background-color: var(--cor-de-fundo);
+}
    color:#000000
- width: 10%;
+   img{
+       width: 10%;
+ }
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
