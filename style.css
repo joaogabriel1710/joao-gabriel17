@@ -13,8 +13,8 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-around;
+} 
 
-    #cr7{
-width: 50%;
+   #cr7{
+width: 20%;
     }
-}
