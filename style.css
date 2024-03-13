@@ -18,3 +18,7 @@ header{
    .cr7{
 width: 20%;
     }
+
+    .introducao{
+        display: flex;
+    }
