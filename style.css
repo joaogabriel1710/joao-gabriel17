@@ -1,27 +1,30 @@
-:root{
+:root {
     --cor-de-fundo: hsl(0, 100%, 99%);
---texto:#000000;
+    --texto: #000000;
 }
-body{
-   background-color: var(--cor-de-fundo);
+
+body {
+    background-color: var(--cor-de-fundo);
 }
-   color:#000000
-   img{
-       width: 10%;
- }
-header{
+
+img {
+    width: 10%;
+}
+
+header {
     display: flex;
     align-items: center;
     justify-content: space-around;
-} 
+}
 
-   .cr7{
-width: 20%;
-    }
+.cr7 {
+    width: 20%;
+}
 
-    .introducao{
-        display: flex;
-    }
-.cr{
+.introducao {
+    display: flex;
+}
+
+.cr {
     display: flex;
 }
