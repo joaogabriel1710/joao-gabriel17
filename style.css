@@ -6,13 +6,10 @@
 body {
     background-color: var(--cor-de-fundo);
 
-    // <uniquifier>: Use a unique and descriptive class name
-
-.edu-nsw act foundation-<uniquifier> {
-  font-family: "Edu NSW ACT Foundation", cursive;
-  font-optical-sizing: auto;
-  font-weight: 500;
-  font-style: normal;
+    font-family: "Edu NSW ACT Foundation", cursive;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
 }
 
 img {
@@ -36,9 +33,9 @@ header {
 .cr {
     display: flex;
 }
-.introducao[    display: flex;
+.introducao{    display: flex;
 margin: 20px 0 0 0;
 padding: 20px;
 background-color: antiquewhite;
 border-radius: 19px;
-border: 3px solid rebeccapurple;]
+border: 3px solid rebeccapurple;}
