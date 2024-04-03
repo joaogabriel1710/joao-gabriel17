@@ -42,6 +42,6 @@ border: 3px solid rebeccapurple;}
 
 .equipe{
     display: grid;
-    grid-template-columns: 40% 40% 40%;
+    grid-template-columns: 37% 37% 37%;
     text-align: center;
 }
