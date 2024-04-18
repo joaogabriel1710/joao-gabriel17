@@ -50,3 +50,9 @@ border: 3px solid rebeccapurple;}
 .ggg{
     width: 30%;
 }
+.messe{    display: flex;
+margin: 20px 0 0 0;
+padding: 20px;
+background-color: rgb(97, 169, 233);
+border-radius: 19px;
+border: 3px yellow;}
