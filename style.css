@@ -73,10 +73,11 @@ header {
 }
 
 .rei {
-    display: flex;
-    margin: 20px 0 0 0;
-    padding: 20px;
-    background-color: darkgoldenrod;
-    border-radius: 19px;
-    border: 3px solid green;
+       
+       margin: 20px 0 0 0;
+       padding: 20px;
+       background-color: darkgoldenrod;
+       border-radius: 19px;
+       border: 3px solid green;
+       text-align: center;
 }
