@@ -33,33 +33,49 @@ header {
 .cr {
     display: flex;
 }
-.introducao{    display: flex;
-margin: 20px 0 0 0;
-padding: 20px;
-background-color: antiquewhite;
-border-radius: 19px;
-border: 3px solid rebeccapurple;}
 
-#equipe{
+.introducao {
+    display: flex;
+    margin: 20px 0 0 0;
+    padding: 20px;
+    background-color: antiquewhite;
+    border-radius: 19px;
+    border: 3px solid rebeccapurple;
+}
+
+#equipe {
     margin: 75px 0;
     display: grid;
     grid-template-columns: 33% 33% 33%;
     text-align: center;
 }
 
-.ggg{
+.ggg {
     width: 30%;
 }
-.messe{    display: flex;
-margin: 20px 0 0 0;
-padding: 20px;
-background-color: rgb(97, 169, 233);
-border-radius: 19px;
-border: 3px solid rgb(243, 209, 19);}
 
-.ney{   display: flex;
-margin: 20px 0 0 0;
-padding: 20px;
-background-color: crimson;
-border-radius: 19px;
-border: 3px solid blue;}
+.messe {
+    display: flex;
+    margin: 20px 0 0 0;
+    padding: 20px;
+    background-color: rgb(97, 169, 233);
+    border-radius: 19px;
+    border: 3px solid rgb(243, 209, 19);
+}
+
+.neymar {
+    display: flex;
+    margin: 20px 0 0 0;
+    padding: 20px;
+    background-color: crimson;
+    border-radius: 19px;
+    border: 3px solid blue;
+}
+
+.rei {
+    display: flex;
+    margin: 20px 0 0 0;
+    padding: 20px;
+    background-color: darkgoldenrod;
+
+}
