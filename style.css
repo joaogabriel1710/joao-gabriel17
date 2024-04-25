@@ -73,11 +73,19 @@ header {
 }
 
 .rei {
-       
-       margin: 20px 0 0 0;
-       padding: 20px;
-       background-color: darkgoldenrod;
-       border-radius: 19px;
-       border: 3px solid green;
-       text-align: center;
+
+    margin: 20px 0 0 0;
+    padding: 20px;
+    background-color: darkgoldenrod;
+    border-radius: 19px;
+    border: 3px solid green;
+    text-align: center;
+}
+
+.maraona {
+    margin: 20px 0 0 0;
+    padding: 20px;
+    background-color: cornflowerblue;
+    border-radius: 19px;
+    border: 3px solid whitesmoke;
 }
